@@ -13,7 +13,7 @@ Revision History    Push Down List
 ------------------------------------------------------------------------------------------------------------------------------------
 Date        | Name       | Description
 ------------+------------+----------------------------------------------------------------------------------------------------------
-30/07/2018  | M Revitt   | Add copy routine to allow files to be copied between Oracle Directoris and S3 buckets
+30/07/2018  | M Revitt   | Add copy routine to allow files to be copied between Oracle Directories and S3 buckets
 13/04/2018  | M Revitt   | Update S3 bucket regions with latest region names
 11/03/2018  | M Revitt   | Initial Version
 ------------+------------+----------------------------------------------------------------------------------------------------------
